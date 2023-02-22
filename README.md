@@ -1,3 +1,4 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/mrDFX/keycloak-regex-filter-group-mapper/blob/main/CONTRIBUTING.md)
 # Keycloak OpenId Connect (OIDC) group filter mapper
 Custom protocol claim mapper that adds the filtrated by regexp groups.
 ## Keycloak version
