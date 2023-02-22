@@ -43,4 +43,4 @@ g1-c-a3
 
 
  
-![Addding Group Filter Membership mapper](Group-Filter-Membership-mapper.heic "")
+![Addding Group Filter Membership mapper](Group-Filter-Membership-mapper.png "")
